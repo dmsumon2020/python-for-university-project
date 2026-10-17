@@ -1,0 +1,4 @@
+Another technique to read a text is limiting yourself to a particular number of
+characters. For instance, the interpreter will read the first twenty characters of the
+data that has been saved and will then return it as a string by utilizing the
+following code

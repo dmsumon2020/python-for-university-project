@@ -1,0 +1,4 @@
+Python tools can be classified into two categories, general-purpose tools, and functional tools. 
+Python has full-fledged support for a vast variety of built-in object types. 
+Python considers memory as the private heap. 
+Python community support is quite active and responsive 
